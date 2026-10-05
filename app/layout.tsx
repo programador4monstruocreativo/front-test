@@ -13,8 +13,8 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "Página de prueba",
-  description: "Frontend de prueba",
+  title: "Tareas",
+  description: "Lista de tareas de prueba",
 };
 
 export default function RootLayout({ children }: LayoutProps<"/">) {
